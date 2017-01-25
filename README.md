@@ -1,0 +1,1 @@
+# javascript-scope-chains-closure
